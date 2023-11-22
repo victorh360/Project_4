@@ -4,5 +4,5 @@ Team Members:
 1.
 2.
 3.
-4.
+4. Katie Loosararian
 5. Victor Hernandez
