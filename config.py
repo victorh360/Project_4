@@ -1,4 +1,4 @@
 
 
 password='postgres'
-database= 'inflation_prediction'
+database= 'price_prediction'
